@@ -1,0 +1,131 @@
+bitcoin :
+20,538.02
+xrp :
+0.324311
+doge :
+0.065274
+Mon Jul 11 19:19:51 AEST 2022
+bitcoin :
+20,538.02
+xrp :
+0.324119
+doge :
+0.065274
+Mon Jul 11 19:20:09 AEST 2022
+bitcoin :
+20,571
+xrp :
+0.324119
+doge :
+0.065274
+shibi :
+Mon Jul 11 19:21:01 AEST 2022
+bitcoin :
+20,571
+xrp :
+0.324119
+doge :
+0.065274
+shib :
+0.000011
+Mon Jul 11 19:21:21 AEST 2022
+bitcoin :
+20,571
+xrp :
+0.324119
+doge :
+0.065225
+shib :
+0.000011
+Mon Jul 11 19:25:49 AEST 2022
+bitcoin :
+20,571
+xrp :
+0.324119
+doge :
+0.065225
+shib :
+0.000011
+Mon Jul 11 19:26:22 AEST 2022
+bitcoin :
+20,571.65
+xrp :
+0.327484
+doge :
+0.065225
+shib :
+0.000011
+Mon Jul 11 19:26:55 AEST 2022
+bitcoin :
+20,571.65
+xrp :
+0.327484
+doge :
+0.065225
+shib :
+0.000011
+Mon Jul 11 19:27:28 AEST 2022
+Mon Jul 11 19:28:39 AEST 2022
+bitcoin :
+20,571.65
+xrp :
+0.327484
+doge :
+0.065225
+shib :
+0.000011
+Mon Jul 11 19:29:07 AEST 2022
+bitcoin :
+20,571.65
+xrp :
+0.327484
+doge :
+0.065225
+shib :
+0.000011
+Mon Jul 11 19:29:40 AEST 2022
+bitcoin :
+20,571.65
+xrp :
+0.327484
+doge :
+0.065225
+shib :
+0.000011
+Mon Jul 11 19:30:15 AEST 2022
+bitcoin :
+20,571.65
+xrp :
+0.327484
+doge :
+0.065225
+shib :
+0.000011
+Mon Jul 11 19:30:48 AEST 2022
+bitcoin :
+20,571.65
+xrp :
+0.327484
+doge :
+0.065225
+shib :
+0.000011
+Mon Jul 11 19:31:20 AEST 2022
+bitcoin :
+20,571.65
+xrp :
+0.327484
+doge :
+0.065225
+shib :
+0.000011
+Mon Jul 11 19:31:53 AEST 2022
+bitcoin :
+20,571.65
+xrp :
+0.327484
+doge :
+0.065162
+shib :
+0.000011
+Mon Jul 11 19:32:26 AEST 2022
